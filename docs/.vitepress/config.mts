@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: '/devlog/',
+  base: '/code-log/',
   title: "中文 My Code Dev Log Docs",
   description: "My Code Dev Log Docs",
   themeConfig: {
