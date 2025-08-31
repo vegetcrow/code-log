@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "无放的Code"
+  name: "无放Code"
   text: "My Code Dev Log Docs"
   tagline: My great project tagline
   actions:
